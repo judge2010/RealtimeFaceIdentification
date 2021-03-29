@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+}
+#head_div{
+    height: 300px;
+    width: 100%;
+    box-shadow: 2px 5px 108px lightskyblue;
+}
+.subheading{
+    background-color: #ffffff;
+    color: darkblue;
+    width: 700px;
+    height: 150px;
+    margin-left: 400px;
+    font-size: 30px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 38px rgb(255, 255, 255);
+}
+#last_div{
+    height: 70px;
+    font-size: 25px;
+    box-shadow: 2px 2px 38px rgb(187, 154, 6);
+}
+#object{
+    box-shadow: 2px 2px 108px darkblue;
+    font-size: 20px;
+}
+#acuracy{
+    box-shadow: 2px 2px 108px darkblue;
+    font-size: 20px;
+}
+#dev-by{
+    font-family: 'Redressed', cursive;
+    width: 100%;
+    margin-top: 375px;
+    background-color: darkgray;
+    font-size: 29px;
+    box-shadow: 2px 2px 108px gold;
+}
+canvas{
+    border-width: 3px;
+    border-color: darkred;
+    border-style: solid;
+    box-shadow: 2px 2px 108px darkred;
+}
